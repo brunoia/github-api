@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## GitHub API
+
+React project bootstrapped with [DevSamurai cra-template-basic](https://github.com/DevSamurai/cra-template-basic).
+
+- Live Site URL: [GitHub API](https://brunoia.github.io/github-api/)
+
+![github-api](https://user-images.githubusercontent.com/57513606/136321344-66bf1ee6-2030-42d2-af67-779765633f4a.gif)
 
 ## Available Scripts
 
