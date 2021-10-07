@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/github-api/static/js/main.c9aca575.chunk.js",
-    "main.js.map": "/github-api/static/js/main.c9aca575.chunk.js.map",
+    "main.js": "/github-api/static/js/main.ac2dd5a8.chunk.js",
+    "main.js.map": "/github-api/static/js/main.ac2dd5a8.chunk.js.map",
     "runtime-main.js": "/github-api/static/js/runtime-main.5a8fcfcf.js",
     "runtime-main.js.map": "/github-api/static/js/runtime-main.5a8fcfcf.js.map",
-    "static/js/2.e37a125c.chunk.js": "/github-api/static/js/2.e37a125c.chunk.js",
-    "static/js/2.e37a125c.chunk.js.map": "/github-api/static/js/2.e37a125c.chunk.js.map",
+    "static/js/2.0aead263.chunk.js": "/github-api/static/js/2.0aead263.chunk.js",
+    "static/js/2.0aead263.chunk.js.map": "/github-api/static/js/2.0aead263.chunk.js.map",
     "static/js/3.1b3e6c08.chunk.js": "/github-api/static/js/3.1b3e6c08.chunk.js",
     "static/js/3.1b3e6c08.chunk.js.map": "/github-api/static/js/3.1b3e6c08.chunk.js.map",
     "index.html": "/github-api/index.html",
     "service-worker.js": "/github-api/service-worker.js",
     "service-worker.js.map": "/github-api/service-worker.js.map",
-    "static/js/2.e37a125c.chunk.js.LICENSE.txt": "/github-api/static/js/2.e37a125c.chunk.js.LICENSE.txt",
+    "static/js/2.0aead263.chunk.js.LICENSE.txt": "/github-api/static/js/2.0aead263.chunk.js.LICENSE.txt",
     "static/media/github-logo.61ad3867.svg": "/github-api/static/media/github-logo.61ad3867.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5a8fcfcf.js",
-    "static/js/2.e37a125c.chunk.js",
-    "static/js/main.c9aca575.chunk.js"
+    "static/js/2.0aead263.chunk.js",
+    "static/js/main.ac2dd5a8.chunk.js"
   ]
 }
